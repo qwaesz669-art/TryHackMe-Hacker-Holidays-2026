@@ -1,5 +1,5 @@
 
-I just finished Day 3 of TryHackMe’s Hacker Holidays event (**The Byte Lotus Hotel: Complimentary**). It’s marked as an Easy cloud challenge, and honestly, as a beginner, this one had me laughing out loud at how wild the developer’s logic was.
+I just finished Day 3 of TryHackMe’s Hacker Holidays event (**The Byte Lotus Hotel: Complimentary**). It’s marked as an Easy cloud challenge.
 
 If you’re currently trying to figure out AWS Cognito or DynamoDB, or if you just want to see a rookie stumble their way into a full-on data leak, here is my detailed, chaotic walkthrough of how I solved it!
 
